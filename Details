@@ -1,0 +1,10 @@
+1 : first i upload .sh file onto WinSCP software
+2 : and then that path i was called in putty 
+3 : 
+
+comments
+1 : i called that sh file to 2 times that why logs shown 2 times 
+2 : and where this end of the line write ">> $LOG_FILE" Put That Line in Log File For This Reason.
+3 : and just echo line print in putty console only not print ">> $LOG_FILE" with this line.
+
+
