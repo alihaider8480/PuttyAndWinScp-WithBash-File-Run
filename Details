@@ -8,3 +8,5 @@ comments
 3 : and just echo line print in putty console only not print ">> $LOG_FILE" with this line.
 4 : and this i was login in systems credential
 
+
+WinScp : winscp provide linux environment and we also can share our local syste mfile onto winscp.
